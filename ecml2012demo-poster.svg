@@ -41,7 +41,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="1083.3945"
+     inkscape:cx="1533.7988"
      inkscape:cy="143.81873"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -720,7 +720,7 @@
            sodipodi:role="line" /></text>
     </g>
     <g
-       id="g3117">
+       id="g3945">
       <rect
          transform="matrix(0.7133797,-0.70077771,0.7133797,0.70077771,0,0)"
          y="2343.1743"
@@ -728,18 +728,18 @@
          height="255.32361"
          width="1014.317"
          id="rect3110"
-         style="fill:#a52a23;fill-opacity:1;stroke:#000000;stroke-width:1.10185564;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:#a52a23;fill-opacity:1;stroke:none;stroke-width:1.10185563999999991;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
          sodipodi:linespacing="125%"
          id="text3112"
-         y="2507.0591"
-         x="1081.1276"
-         style="font-size:17.62042236px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         y="2502.3628"
+         x="1137.0814"
+         style="font-size:14.2153244px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-size:66.07658386px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
-           y="2507.0591"
-           x="1081.1276"
+           style="font-size:53.3074646px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Sans"
+           y="2502.3628"
+           x="1137.0814"
            id="tspan3114"
            sodipodi:role="line">ECML-PKDD 2012</tspan></text>
     </g>
